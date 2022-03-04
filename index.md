@@ -2,13 +2,13 @@
 ---
 ## Machine learning
 
-### Fraud Detection
+### Automatic Helmet Detection
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+Provide Lisence plate numbers of motocycle riders without helmets. A custom trained Object Detection model based on YOLO-v3 architecture was used to detect riders without helmets from live feed of surveillence cameras or images. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nitro97/HelmetDetection)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="images/helet_detection.jpg"/></center>
 
 ---
 ### Financial-Models-Numerical-Methods
