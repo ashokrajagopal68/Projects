@@ -8,7 +8,7 @@ Provide Lisence plate numbers of motocycle riders without helmets. A custom trai
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nitro97/HelmetDetection)
 
-<center><img src="images/helet_detection.jfif"/></center>
+<center><img src="assets/img/helet_detection.jfif"/></center>
 
 ---
 ### Financial-Models-Numerical-Methods
