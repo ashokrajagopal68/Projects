@@ -8,6 +8,9 @@
 
 Bitcoin being the king of cryptocurrencies, is also highly volatile making it very hard for traders to estimate the price action. The Price prediction is done using stacked LSTM model with both Univariate and Multivariate strategies. 
 
+![image](https://user-images.githubusercontent.com/32412569/166316166-ad44414e-19b9-40fd-bebf-4911ea5c3882.png)
+
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ashokrajagopal68/Bitcoin-Price-Prediction)
 
 ### Automatic Helmet Detection
